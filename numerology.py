@@ -1,5 +1,4 @@
 #Imports
-from calendar import month
 from datetime import datetime, date, timedelta
 
 #Initial values
