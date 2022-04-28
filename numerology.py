@@ -1,9 +1,6 @@
 #Imports
 from calendar import month
 from datetime import datetime, date, timedelta
-from pickle import TRUE
-from time import monotonic
-from webbrowser import get
 
 #Initial values
 show_info_in_year = 2022
